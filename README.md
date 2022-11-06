@@ -1,4 +1,4 @@
-# Hi there i am Pedro Jorge! 👋
+# Hi there I am Pedro Jorge! 👋
 
 
 ## 🚀 About me
