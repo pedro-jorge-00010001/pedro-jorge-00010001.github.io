@@ -77,11 +77,4 @@ Currently working at **PwC** as a Tax Technology Consultant, where I:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-jorge-530063178/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedro-jorge-00010001)
 
-<!-- ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-jorge-00010001&show_icons=true&theme=dark)
-
-  ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-jorge-00010001&layout=compact&theme=dark)
---!>
-
 ⭐️ From [pedro-jorge-00010001](https://github.com/pedro-jorge-00010001)
